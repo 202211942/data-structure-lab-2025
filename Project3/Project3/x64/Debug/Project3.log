@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\USER\Documents\data-structure-rab-2025\Project3\Project3\소스.cpp(15,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project3.vcxproj -> C:\Users\USER\Documents\data-structure-rab-2025\Project3\x64\Debug\Project3.exe

@@ -1,0 +1,4 @@
+﻿  4장예제.c
+E:\C언어공부\4장예제.c(9,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+소스.obj : error LNK2005: main이(가) 4장예제.obj에 이미 정의되어 있습니다.
+C:\Users\USER\Documents\data-structure-rab-2025\Project4\x64\Debug\Project4.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
